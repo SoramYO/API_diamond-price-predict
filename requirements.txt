@@ -1,0 +1,13 @@
+#Create env conda create -n diamond_env python=3.8
+#Activate env: conda activate diamond_env
+#pip install jupyter lab
+# using env in jupyter lab you need install: 
+#Update pip python -m pip install --upgrade pip
+
+scikit-learn==1.2.2
+pandas==2.0.2
+streamlit==1.23.1
+matplotlib==3.7.1
+seaborn==0.12.2
+joblib==1.2.0
+pybase64==1.2.3
