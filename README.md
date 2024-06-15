@@ -20,6 +20,11 @@ git install -r requirement.txt
 streamlit run app.py
 
 ```
+* step 3: Run api
+```
+python server.py
+
+```
 
 ### Statement of Purpose ###
 
